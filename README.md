@@ -160,6 +160,7 @@ For each tool, describe the specific failure mode you're handling and what the a
 | create_fit_card | Outfit input is missing or incomplete |Returns a descriptive error message string |
 
 suggest_outfit fail: 
+![alt text](assets/image.png)
 
 ## Spec Reflection
 
