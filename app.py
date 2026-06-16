@@ -84,6 +84,7 @@ EXAMPLE_QUERIES = [
     "designer ballgown size XXS under $5",   # deliberate no-results test
 ]
 
+
 def build_interface():
     with gr.Blocks(title="FitFindr") as demo:
         gr.Markdown("""
